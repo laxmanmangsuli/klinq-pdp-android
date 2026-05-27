@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">KlinqProductDetails</string>
+    <string name="remove">-</string>
+    <string name="one">1</string>
+    <string name="add">+</string>
+    <string name="add_to_bag">Add to Bag</string>
+    <string name="share">Share</string>
+    <string name="once_collection_weekly">Once Collection Weekly</string>
+    <string name="color">Color:</string>
+    <string name="tabby">tabby</string>
+    <string name="quantity">Quantity</string>
+    <string name="product_information">PRODUCT INFORMATION</string>
+    <string name="toggle">Toggle</string>
+    <string name="images">images</string>
 </resources>
